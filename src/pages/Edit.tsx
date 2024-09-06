@@ -1,4 +1,4 @@
-import React from 'react'
+
 import EditComp from '../components/EditComp'
 import Appbar from '../components/Appbar'
 
